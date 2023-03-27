@@ -1,8 +1,5 @@
 LOGO
 
-[Cartões iniciais](#cartões-iniciais) |
-[Cartões iniciais](#cartões-iniciais)
-
 # CONTROLE DE RESMAS.
 Controle de Resmas e Impressões.
 
