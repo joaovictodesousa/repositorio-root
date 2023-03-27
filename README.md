@@ -219,7 +219,7 @@ h1{
 _**COLABORADORES**_ | _**GITHUB**_
 -------------- | ----------------
 **João Victor de Sousa Ribeiro** | https://github.com/joaovictodesousa
-**Rafael Alencar do Amaral** | https://github.com/matraf123
+**Rafael Magalhães Veloso** | https://github.com/matraf123
 **Cibely Araujo e Silva** | https://github.com/belyaraujo
 **Jenniffer Glenda da Silva** | https://github.com/JennifferGS
 
