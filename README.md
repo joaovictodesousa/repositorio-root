@@ -13,7 +13,7 @@ O Controle de Resmas e Impressões é um software desenvolvido para auxiliar emp
 ## Funcionalidades
 O software possui as seguintes funcionalidades:
 
-* Cadastro de resmas de papel: os usuários podem cadastrar as resmas de papel que foram gastas, informando o tipo, a gramatura e a quantidade de folhas de cada resma
+* Cadastro de resmas de papel: os usuários podem cadastrar as resmas de papel que foram gastas e a quantidade de folhas de cada resma.
 
 
 * Registro de impressões: os usuários podem registrar as impressões realizadas, informando a quantidade de folhas de papel utilizadas em cada impressão.
