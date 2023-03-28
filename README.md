@@ -34,37 +34,6 @@ O software possui as seguintes funcionalidades:
 **Ex PHP do projeto**
 ```PHP
 
-@extends('layouts.main')
-@section('title', 'Novacap - Histórico')
-@section('content')
-
-    <br>
-    <br>
-    <br>
-    <br>
-
-
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.css">
-
-    <script type="text/javascript">
-        var $rows = $('#table tr');
-        $('#search').keyup(function() {
-            var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-            $rows.show().filter(function() {
-                var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-                return !~text.indexOf(val);
-            }).hide();
-        });
-        </script>
-        {{--Fazer a mensagem de salvar sumir depois de um tempo--}}
-        <script>
-            $().ready(function() {
-	setTimeout(function () {
-		$('#sumir').hide();
-    }, 3000); // O valor é representado em milisegundos.
-});
-        </script>
-
     <div class="container">
 
         <a class="btn btn-outline-primary" href="{{ route('cadastro') }}" role="button">NOVA SOLICITAÇÃO</a>
