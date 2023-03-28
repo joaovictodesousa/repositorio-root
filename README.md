@@ -4,6 +4,8 @@
 # CONTROLE DE RESMAS.
 Controle de Resmas e Impressões.
 
+![image](https://user-images.githubusercontent.com/107226493/228243897-6f82edc6-cd9e-4c50-8f93-86c9bbd91ec6.png)
+
 
 ## Descrição
 O Controle de Resmas e Impressões é um software desenvolvido para auxiliar empresas e organizações no gerenciamento de estoque de papel e impressões. O software permite que os usuários acompanhem o uso das resmas de papel e controlem a quantidade de impressões realizadas.
