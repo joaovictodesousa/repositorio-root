@@ -82,7 +82,7 @@ _**COLABORADORES**_ | _**GITHUB**_
 **João Victor de Sousa Ribeiro** | https://github.com/joaovictodesousa
 **Darciso Maia Filho** | https://github.com/Darciso
 **Rute Miliana** | https://github.com/rutemiliana
-**Cristian**  | https://github.com/
+**Cristian Barbosa**  | https://github.com/
 
 ---------------------------------------------------------------
 
