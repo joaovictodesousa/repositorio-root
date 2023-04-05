@@ -1,36 +1,51 @@
 ![Logo da novacap](https://assets.infra.grancursosonline.com.br/projeto/novacap-companhia-urbanizadora-da-nova-capital-do-brasil.png)
 
 
-# CONTROLE DE RESMAS.
-Controle de Resmas e Impressões.
+# SisGCon.
 
-![image](https://user-images.githubusercontent.com/107226493/228243897-6f82edc6-cd9e-4c50-8f93-86c9bbd91ec6.png)
+* Login SisGCon.
 
+![image](https://user-images.githubusercontent.com/107226493/229829719-c083836c-af7d-42bd-9314-0382dafaeb7f.png)
+
+* Após realizar o login, o sistema apresentará a seguinte tela.
+
+<br>
 
 ## Descrição
-O Controle de Resmas e Impressões é um software desenvolvido para auxiliar empresas e organizações no gerenciamento de estoque de papel e impressões. O software permite que os usuários acompanhem o uso das resmas de papel e controlem a quantidade de impressões realizadas.
+
+<br>
+
+O SisGCon e um sistema de gestão de contrato, é uma plataforma digital que permite a NOVACAP gerenciar seus contratos de forma eficiente, desde a criação até a busca do arguivo. Ele automatiza processos manuais e simplifica a gestão de contratos, ajudando as empresas a evitar erros e a economizar tempo e dinheiro.
+
+<br>
 
 ## Funcionalidades
-O software possui as seguintes funcionalidades:
+ 
+<br>
 
-* Cadastro de resmas de papel: os usuários podem cadastrar as resmas de papel que foram gastas e a quantidade de folhas de cada resma.
+*  Criar documentos de contratos.
 
+* arquivar documentos de contrato.
 
-* Registro de impressões: os usuários podem registrar as impressões realizadas, informando a quantidade de folhas de papel utilizadas em cada impressão.
+* Pesquisar contrato.
 
-* Controle de impressões: o software permite que os usuários controlem a quantidade de impressões realizadas, o setor responsável pela impressão e a quantidade de folhas de papel utilizadas.
+* Detalhes do contrato.
 
-* Relatórios: o software gera relatórios sobre o uso das resmas e impressões realizadas, permitindo que os usuários acompanhem o desempenho do estoque de papel e das impressoras.
+* Campo de Aditivos.
+
+* Campo detalhe de Aditivos.
+
+* Apostilamento 
+
+<br>
 
 # Tecnologias utilizadas no Controle de resmas
 
-* laravel
+* PHP | v
 
-* Boostrap
+* Codeigniter | v
 
-* Html
-
-* CSS
+* SQLserver | ano 2005
 
 #
 
@@ -39,10 +54,9 @@ O software possui as seguintes funcionalidades:
 _**COLABORADORES**_ | _**GITHUB**_
 -------------- | ----------------
 **João Victor de Sousa Ribeiro** | https://github.com/joaovictodesousa
-**Rafael Magalhães Veloso** | https://github.com/matraf123
-**Cibely Araujo e Silva** | https://github.com/belyaraujo
-**Jenniffer Glenda da Silva** | https://github.com/JennifferGS
+**Darciso Maia Filho** | https://github.com/Darciso
 **Rute Miliana** | https://github.com/rutemiliana
+**Cristian**  | https://github.com/
 
 ---------------------------------------------------------------
 
